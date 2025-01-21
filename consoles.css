@@ -38,7 +38,7 @@ nav ul {
 }
 
 nav ul li {
-    margin-right: 0 1rem;
+    margin-right: 1rem;
 }
 
 nav ul li a {
@@ -67,9 +67,8 @@ main {
 h1{
     color: #1e90ff;
 }
-.available-butto{
-    background-color: #1e90ff;
-    color: #fff;
+.available{
+    color: #1e90ff;;
     display: inline-block;
     padding: 10px 20px;
     margin: 20px 0;
